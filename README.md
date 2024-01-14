@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/vitorosenbergre">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=vitorosenbergre&show_icons=true&theme=prussian&include_all_comits=true&count_private=true"/>
-  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorosenbergre&layout=compact&langs_count=16&theme=prussian"/>
+  <img width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorosenbergre&layout=compact&langs_count=16&theme=prussian"/>
 </div>
 
 ##
